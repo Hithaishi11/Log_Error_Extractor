@@ -1,0 +1,21 @@
+2025-08-01 10:00:01 INFO Test Execution Started
+2025-08-01 10:00:05 INFO Connecting to ROADM Node A
+2025-08-01 10:00:10 INFO Connection Successful
+
+2025-08-01 10:01:15 ERROR LOS detected on Channel 45
+2025-08-01 10:01:20 WARNING Rx power below threshold
+2025-08-01 10:01:25 ERROR LOS detected on Channel 45
+
+2025-08-01 10:02:00 INFO ALS Restart Attempt Initiated
+2025-08-01 10:02:10 ERROR ALS Restart Failed
+
+2025-08-01 10:03:05 INFO Amplifier Gain Check Started
+2025-08-01 10:03:15 FAIL Amplifier gain out of range
+
+2025-08-01 10:04:10 INFO Wavelength Provisioning Started
+2025-08-01 10:04:20 EXCEPTION Provisioning timeout
+
+2025-08-01 10:05:30 INFO Traffic Verification Started
+2025-08-01 10:05:45 ERROR BER threshold exceeded
+
+2025-08-01 10:06:00 INFO Test Execution Completed
